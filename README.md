@@ -1,6 +1,8 @@
 # McAfee-ePo-Analyser
 An analyser for McAfee ePo with included report template. Retrieve key McAfee ePo information on an IP or username (sAMAccountName) strings.	
 
+![Screenshot](pic1.png "short") ![Screenshot](pic2.png "long")
+
 ## Requirements
 - McAfee ePo subscription
 - McAfee ePo user/password (read role)
