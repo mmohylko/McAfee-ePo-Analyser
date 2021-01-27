@@ -32,5 +32,6 @@ An analyser for McAfee ePo with included report template. Retrieve key McAfee eP
 
 ## Notes
 I use native mcafee.py lib as it supports current ePo 5.10.x. The analyser has some weakness, but it works fine for my general needs. Any help in coding is appreciated.
-- a username can be found on a few machines were AV is installed. Analyser brings only last one.
-- general code optimizating due to my superficial knowledge of python :)
+- A username can be found on a few machines were AV is installed. Analyser brings only last one.
+- General code optimizating due to my superficial knowledge of python :)
+- A lot of featueres could be added. For example, initiate AV scan on an endpoint. 
