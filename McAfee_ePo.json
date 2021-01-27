@@ -1,0 +1,43 @@
+{
+  "name": "McAfee_ePo",
+  "version": "1.1",
+  "author": "Maksym Mohylko",
+  "url": "https://github.com/mmohylko/McAfee-ePo-Analyser",
+  "license": "AGPL-V3",
+  "description": "Retrieve key McAfee ePo information on an IP or username strings.",
+  "dataTypeList": ["ip", "other"],
+  "command": "McAfeeEPO/mcafee_epo_analyzer.py",
+  "baseConfig": "McAfee-ePo",
+  "config": {
+      "service": "find"
+  },
+  "configurationItems": [
+    {
+      "name": "hostname",
+      "description": "Define McAfee ePo hostname",
+      "type": "string",
+      "multi": false,
+      "required": true
+    },
+    {
+      "name": "port",
+      "description": "Define McAfee ePo port",
+      "type": "string",
+      "multi": false,
+      "required": true
+    },
+    {
+      "name": "user",
+      "description": "Define the user with view rights",
+      "type": "string",
+      "multi": false,
+      "required": true
+    },
+    {
+      "name": "password",
+      "description": "Define password",
+      "type": "string",
+      "multi": false
+    }
+  ]
+}
