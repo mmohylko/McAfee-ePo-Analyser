@@ -9,10 +9,10 @@ An analyser for McAfee ePo with included report template. Retrieve key McAfee eP
 ### Analyzer
 1. Open Cortex-Analyzers/analyzers/
 2. Make a new Directory called "McAfeeEPO"
-3. Copy the "mcafee_epo_analyzer.py", "McAfee_ePo.json", "mcafee.py" and "requirements.txt" files inside
+3. Copy the "mcafee_epo_analyzer.py", "McAfee_ePo.json" and "mcafee.py" files inside
 
 ### Template
-1. Navigate to Cortex-Analyzers/thehive-templates
+1. Navigate to Cortex-Analyzers/thehive-templates/
 2. Create a new folder called "McAfeeEPO_1_1"
 3. Copy the "long.html" file there
 
