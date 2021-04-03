@@ -16,7 +16,7 @@ An analyser for McAfee ePo with included report template. Retrieve key McAfee eP
 ### Template
 1. Navigate to Cortex-Analyzers/thehive-templates/
 2. Create a new folder called "McAfeeEPO_1_1"
-3. Copy the "long.html" file there
+3. Copy the "long.html" and "short.html" files there
 
 ## Configuration
 1. Open Cortex,
