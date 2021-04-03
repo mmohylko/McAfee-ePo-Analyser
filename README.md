@@ -27,7 +27,7 @@ An analyser for McAfee ePo with included report template. Retrieve key McAfee eP
 6. Open TheHive
 7. Go To "Report Templates"
 8. "View Template" on Long Template for McAfee_ePo_1_1
-9. Copy the contents of long.html in here and save.
+9. Copy the contents of long.html and short.html in here and save.
 10. Refresh your page.
 
 ## Notes
